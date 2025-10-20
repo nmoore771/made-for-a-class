@@ -1,1 +1,5 @@
 My goodness this took a while...
+
+Github wants you to use this pane as, like, an actual coding IDE
+but you probably prefer VS Code.  
+
