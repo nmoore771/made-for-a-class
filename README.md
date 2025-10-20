@@ -1,2 +1,3 @@
 # made-for-a-class
-Yes
+Thousands of Bothans died to bring us this git repo.
+
